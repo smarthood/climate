@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.css": "/climate/static/css/main.0fba89c4.css",
+    "main.js": "/climate/static/js/main.53aca698.js",
+    "static/media/image1.png": "/climate/static/media/image1.e6bd6972c25ae28fb004.png",
+    "static/media/image3.jpg": "/climate/static/media/image3.b6ac5eca3c7c4bebdde1.jpg",
+    "static/media/image2.jpg": "/climate/static/media/image2.f35a00b7b3962906485c.jpg",
+    "static/media/image4.jpg": "/climate/static/media/image4.c4bb30167542a5ed45b9.jpg",
+    "index.html": "/climate/index.html",
+    "main.0fba89c4.css.map": "/climate/static/css/main.0fba89c4.css.map",
+    "main.53aca698.js.map": "/climate/static/js/main.53aca698.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.0fba89c4.css",
+    "static/js/main.53aca698.js"
+  ]
+}
